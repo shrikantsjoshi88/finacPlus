@@ -1,0 +1,5 @@
+# Created at 2024-10-14T14:10:18.040
+Boot Manifest-JAR contains absolute paths in classpath 'a:\Projects\com.org.finacplus\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
